@@ -9,7 +9,7 @@
 - [🔹 Git Nedir?](./01-git-nedir.md)
 - [🔹 GitHub Nedir?](./02-github-nedir.md)
 - [🔹 Temel Komutlar](./03-temel-komutlar.md)
-- [🔹 Branch & Merge](./04-branch-ve-merge.md)
+- [🔹 Branch & Merge](./04-branch-merge.md)
 - [🔹 Hatalar & Çözümleri](./05-hatalar-ve-cozumler.md)
 - [🔹 Faydalı Kaynaklar](./06-faydali-kaynaklar.md)
 - [🔹 Örnekler](./ornekler/ornek1.md)
@@ -34,8 +34,8 @@ Hem kendim öğreniyorum, hem de başkalarına yardımcı oluyorum!
 
 ## 🌐 Sosyal Medyada Paylaşımlar
 
-- [LinkedIn Profilim](https://www.linkedin.com/in//)
-- [Medium Yazılarım](https://medium.com/@)
+- [LinkedIn Profilim](https://www.linkedin.com/in/ismail-umutluoglu-a82955262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Medium Yazılarım](https://medium.com/@ismailumutluoglu10)
 
 ---
 
