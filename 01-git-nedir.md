@@ -39,4 +39,4 @@ Kodun geçmişini tutar, ekip içi işbirliğini kolaylaştırır ve hataları k
 
 ---
 
-> 📖 Daha fazlası için: [Pro Git Kitabı](https://git-scm.com/book/tr/v2)
+> 📖 Daha fazlası için: [Git Main Page]([https://git-scm.com/book/tr/v2](https://git--scm-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=tr&_x_tr_hl=tr&_x_tr_pto=tc))
